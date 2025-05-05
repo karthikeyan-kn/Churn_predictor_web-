@@ -1,0 +1,21 @@
+{
+  "name": "churn-ui",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.16.1",
+    "shadcn-ui": "latest",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33"
+  }
+}
